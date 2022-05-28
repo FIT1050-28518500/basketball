@@ -1,0 +1,11 @@
+images:
+https://unsplash.com/
+
+text:
+https://en.wikipedia.org/wiki/Basketball
+
+template:
+https://www.os-templates.com/free-website-templates/chillaid
+
+layout:
+https://webstyleguide.com/wsg3/7-page-design/3-visual-design.html
